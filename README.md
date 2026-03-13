@@ -43,6 +43,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/ArturoEA/ArturoEA/blob/main/Collage_ElCombe.jpeg" target="_blank">
+          <img src="https://raw.githubusercontent.com/ArturoEA/ArturoEA/main/Collage_ElCombe.jpeg" width="40%" alt="Collage El Combe"/>
+        </a>
+      </div>
       <br />
       <h3 align="center">⚽ Portal Web El Combe</h3>
       <br />
