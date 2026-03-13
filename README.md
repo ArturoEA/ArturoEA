@@ -2,7 +2,7 @@
 ### 🚀 Ingeniero de Sistemas | Desarrollador Web y Móvil
 
 <p align="left">
-  Desde Cajamarca, Perú. Me apasiona encontrar el punto de encuentro entre el software y el mundo físico. Me especializo en crear soluciones que generen un impacto real y optimicen procesos de negocio. Actualmente, estoy explorando formas de integrar tecnologías, como dispositivos telemétricos, para revolucionar el sector de alquiler de maquinaria y equipos.
+  Me apasiona encontrar el punto de encuentro entre el software y el mundo físico para resolver problemas de negocio. Como ingeniero de software, mi enfoque está en la automatización de procesos y el desarrollo de sistemas escalables. Actualmente construyendo soluciones móviles y web, y explorando la integración de tecnologías telemétricas para revolucionar la gestión de maquinaria
 </p>
 
 <div align="left">
