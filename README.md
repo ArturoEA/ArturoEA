@@ -5,6 +5,20 @@
   Desde Cajamarca, Perú. Me apasiona encontrar el punto de encuentro entre el software y el mundo físico. Me especializo en crear soluciones que generen un impacto real y optimicen procesos de negocio. Actualmente, estoy explorando formas de integrar tecnologías, como dispositivos telemétricos, para revolucionar el sector de alquiler de maquinaria y equipos.
 </p>
 
+<div align="left">
+  <a href="https://github.com/ArturoEA/ArturoEA/blob/main/ARTURO_ESQUIVEL_ALVARADO_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Descargar_CV-2563EB?style=for-the-badge&logoColor=white" alt="Descargar CV"/>
+  </a>
+</div>
+
+---
+
+## 🙋‍♂️ Sobre mí
+
+<p align="left">
+  Además de mi pasión por el desarrollo de software, soy un firme creyente del aprendizaje continuo. Cuando no estoy optimizando procesos o escribiendo código, disfruto desconectar adquiriendo nuevas habilidades. Actualmente dedico mi rutina a perfeccionar mi inglés y estoy aprendiendo a tocar el piano, explorando el mundo del jazz y el blues. 🎹
+</p>
+
 ---
 
 ## 🚧 Proyectos Destacados
@@ -14,20 +28,18 @@
     <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/ArturoEA/ArturoEA/blob/main/Collage_MAQUIRENTAPP.jpeg" target="_blank">
-          <img src="https://raw.githubusercontent.com/ArturoEA/ArturoEA/main/Collage_MAQUIRENTAPP.jpeg" width="50%" alt="Collage MAQUIRENT App"/>
+          <img src="https://raw.githubusercontent.com/ArturoEA/ArturoEA/main/Collage_MAQUIRENTAPP.jpeg" width="40%" alt="Collage MAQUIRENT App"/>
         </a>
       </div>
       <br />
       <h3 align="center">🏗️ MAQUIRENT App</h3>
       <p align="center">
-        <i>Aplicación móvil nativa para la gestión y alquiler de maquinaria pesada</i>
+        <i>Aplicación móvil nativa para la gestión y alquiler de maquinaria pesada.</i>
       </p>
-      <p>Diseño y desarrollo integral bajo arquitectura MVVM. Cuenta con la implementación de Firebase como Backend-as-a-Service para la sincronización de datos en tiempo real. El sistema gestiona el inventario, hace seguimiento de alquileres y automatiza la generación de cotizaciones, certificados, informes y valorizaciones (Word, PDF, Excel) directamente desde la app</p>
+      <p>Diseño y desarrollo integral bajo arquitectura MVVM. Cuenta con la implementación de Firebase como Backend-as-a-Service para la sincronización de datos en tiempo real. El sistema gestiona el inventario, hace seguimiento de alquileres y automatiza la generación de cotizaciones, certificados, informes y valorizaciones (Word, PDF, Excel) directamente desde la app.</p>
       <p><b>Tecnologías:</b> Java, Firebase</p>
       <div align="center">
-        <a href="URL_DE_TU_REPO_O_DEMO">
-        <img src="https://img.shields.io/badge/Repositorio_Privado-🔒-gray?style=for-the-badge" alt="Repositorio Privado"/>
-        </a>
+          <img src="https://img.shields.io/badge/Repositorio_Privado-🔒-gray?style=for-the-badge" alt="Repositorio Privado"/>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -122,6 +134,9 @@
 ## 📫 Contáctame
 
 <div align="center">
+  <a href="mailto:earturosalvador@gmail.com">
+    <img src="https://img.shields.io/badge/earturosalvador@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Correo" />
+  </a>
   <a href="https://www.instagram.com/arturo_ea17?igsh=aWN3b2I4aHp4ZHgz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
