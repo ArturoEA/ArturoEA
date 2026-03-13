@@ -23,10 +23,10 @@
         <i>Aplicación móvil nativa para la gestión y alquiler de maquinaria pesada</i>
       </p>
       <p>Diseño y desarrollo integral bajo arquitectura MVVM. Cuenta con la implementación de Firebase como Backend-as-a-Service para la sincronización de datos en tiempo real. El sistema gestiona el inventario, hace seguimiento de alquileres y automatiza la generación de cotizaciones, certificados, informes y valorizaciones (Word, PDF, Excel) directamente desde la app</p>
-      <p><b>Tecnologías:</b>Java, Firebase</p>
+      <p><b>Tecnologías:</b> Java, Firebase</p>
       <div align="center">
         <a href="URL_DE_TU_REPO_O_DEMO">
-          <img src="https://img.shields.io/badge/Ver%20Proyecto-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
+        <img src="https://img.shields.io/badge/Repositorio_Privado-🔒-gray?style=for-the-badge" alt="Repositorio Privado"/>
         </a>
       </div>
     </td>
