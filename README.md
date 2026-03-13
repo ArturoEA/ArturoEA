@@ -1,4 +1,4 @@
-# ¡Hola, mundo! 👋 Soy Arturo Esquivel
+# Hola! 👋 Soy Arturo Esquivel
 ### 🚀 Ingeniero de Sistemas | Desarrollador Web y Móvil
 
 <p align="left">
@@ -12,12 +12,17 @@
 <table bordercolor="#30363d">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏗️ MAQUIRENT App</h3>
+      <div align="center">
+        <a href="https://github.com/ArturoEA/ArturoEA/blob/main/Collage_MAQUIRENTAPP.jpeg" target="_blank">
+          <img src="https://raw.githubusercontent.com/ArturoEA/ArturoEA/main/Collage_MAQUIRENTAPP.jpeg" width="100%" alt="Collage MAQUIRENT App"/>
+        </a>
+      </div>
       <br />
+      <h3 align="center">🏗️ MAQUIRENT App</h3>
       <p align="center">
-        <i>Aplicación móvil nativa para la gestión y alquiler de maquinaria pesada. [cite: 20]</i>
+        <i>Aplicación móvil nativa para la gestión y alquiler de maquinaria pesada.</i>
       </p>
-      <p>Diseño y desarrollo integral bajo arquitectura MVVM. [cite: 20] Cuenta con la implementación de Firebase como Backend-as-a-Service para la sincronización de datos en tiempo real. [cite: 21] El sistema gestiona el inventario, hace seguimiento de alquileres [cite: 23] y automatiza la generación de cotizaciones y certificados directamente desde la app. [cite: 24]</p>
+      <p>Diseño y desarrollo integral bajo arquitectura MVVM. Cuenta con la implementación de Firebase como Backend-as-a-Service para la sincronización de datos en tiempo real. El sistema gestiona el inventario, hace seguimiento de alquileres y automatiza la generación de cotizaciones y certificados directamente desde la app.</p>
       <p><b>Tecnologías:</b> Android (Java), Firebase, PHP, Laravel</p>
       <div align="center">
         <a href="URL_DE_TU_REPO_O_DEMO">
@@ -26,12 +31,13 @@
       </div>
     </td>
     <td width="50%" valign="top">
+      <br />
       <h3 align="center">⚽ Portal Web El Combe</h3>
       <br />
       <p align="center">
-        <i>Plataforma full stack informativa y de gestión para club deportivo. [cite: 10]</i>
+        <i>Plataforma full stack informativa y de gestión para club deportivo.</i>
       </p>
-      <p>Implementación del backend con PHP (Laravel) y base de datos MySQL para la gestión de noticias, partidos y resultados. [cite: 11] Además, desarrollé un módulo específico para sorteos y me encargué de la automatización del despliegue final en un servidor Linux. [cite: 12]</p>
+      <p>Implementación del backend con PHP (Laravel) y base de datos MySQL para la gestión de noticias, partidos y resultados. Además, desarrollé un módulo específico para sorteos y me encargué de la automatización del despliegue final en un servidor Linux.</p>
       <p><b>Tecnologías:</b> PHP (Laravel), MySQL, Linux</p>
       <br />
       <div align="center">
