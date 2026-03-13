@@ -15,10 +15,10 @@
       <h3 align="center">🏗️ MAQUIRENT App</h3>
       <br />
       <p align="center">
-        <i>Sistema integral para la gestión y alquiler de maquinaria pesada.</i>
+        <i>Aplicación móvil nativa para la gestión y alquiler de maquinaria pesada. [cite: 20]</i>
       </p>
-      <p>Desarrollo de una aplicación móvil y sistema web para optimizar la gestión de inventario, alquiler y control de equipos (como grupos electrógenos y compresoras). El sistema facilita el seguimiento y mejora la operatividad del negocio familiar.</p>
-      <p><b>Tecnologías:</b> Java, PHP, Laravel</p>
+      <p>Diseño y desarrollo integral bajo arquitectura MVVM. [cite: 20] Cuenta con la implementación de Firebase como Backend-as-a-Service para la sincronización de datos en tiempo real. [cite: 21] El sistema gestiona el inventario, hace seguimiento de alquileres [cite: 23] y automatiza la generación de cotizaciones y certificados directamente desde la app. [cite: 24]</p>
+      <p><b>Tecnologías:</b> Android (Java), Firebase, PHP, Laravel</p>
       <div align="center">
         <a href="URL_DE_TU_REPO_O_DEMO">
           <img src="https://img.shields.io/badge/Ver%20Proyecto-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
@@ -26,18 +26,16 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 [Nombre Proyecto 2]</h3>
+      <h3 align="center">⚽ Portal Web El Combe</h3>
       <br />
       <p align="center">
-        <i>[Subtítulo breve de tu segundo proyecto]</i>
+        <i>Plataforma full stack informativa y de gestión para club deportivo. [cite: 10]</i>
       </p>
-      <p>[Descripción de dos o tres líneas explicando qué problema resuelve, cómo funciona o qué lograste con este desarrollo].</p>
-      <p><b>Tecnologías:</b> [Ej: React, Node.js, Firebase]</p>
+      <p>Implementación del backend con PHP (Laravel) y base de datos MySQL para la gestión de noticias, partidos y resultados. [cite: 11] Además, desarrollé un módulo específico para sorteos y me encargué de la automatización del despliegue final en un servidor Linux. [cite: 12]</p>
+      <p><b>Tecnologías:</b> PHP (Laravel), MySQL, Linux</p>
       <br />
       <div align="center">
-        <a href="URL_DE_TU_REPO_O_DEMO">
-          <img src="https://img.shields.io/badge/Ver%20Proyecto-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto"/>
-        </a>
+        <img src="https://img.shields.io/badge/Repositorio_Privado-🔒-gray?style=for-the-badge" alt="Repositorio Privado"/>
       </div>
     </td>
   </tr>
